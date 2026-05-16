@@ -1,2 +1,8 @@
 # Rick Rolldberg Machine
-Arduino code that does simultaneous capacitive and inductive sensing, while driving some relays, solenoids, and electromagnets, and communicates over USB serial, in order to play a classic music video :)
+Code from EE241: Electric Circuit Analysis II Laboratory, Winter 2026, Cal Poly SLO
+
+The setup we were constrained to using in this class was incredibly noisy and convoluted. 
+
+The capacitive and inductive sensing parameters are precisely tuned for that particular setup, which will never be recreated. 
+
+However, this was a fun project, so I have kept the code here for posterity.
